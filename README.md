@@ -9,5 +9,6 @@ This project implements an **Inventory Monitoring System** in Python using Objec
 2. Navigate to the project directory:
    ```bash
    cd lab_activity_3
-3. Run the script
+3. Run the script:
+   ```bash
    python3 inventory_system.py
